@@ -1,2 +1,13 @@
 Use this README file to introduce your application and point to useful places in the API for learning more.
 Run "rake doc:app" to generate API documentation for your models, controllers, helpers, and libraries.
+
+
+Deploy static site without errors
+Deploy with single line of code, that does not require logins and passphrases
+
+Listing what tools my site is using
+how it was deployed
+
+how much space do I get on heroku?
+
+database in public folder

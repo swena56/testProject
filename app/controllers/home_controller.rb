@@ -1,4 +1,17 @@
 class HomeController < ApplicationController
-  def aboutMe
+  @numberOfTimesButtonWasPushed = 0
+
+  def buttonWasPushed
+
   end
+
+  def aboutMe
+
+  end
+
+  def index
+
+  end
+
+
 end
